@@ -1,1 +1,1 @@
-hello gitops-prepro. Learning and applying Gitops
+hello gitops-prod. Learning and applying Gitops
